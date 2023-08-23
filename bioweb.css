@@ -380,6 +380,14 @@ form textarea {
     color: red;
 }
 
+#msg {
+    color: #61b752;
+    font-size: 18px;
+    margin-top: 50px;
+    text-indent: 15px;
+    display: block;
+}
+
 @keyframes slideRight {
     0% {
         transform: translateX(-100px);
